@@ -26,12 +26,12 @@
       "01"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "max_layers"                                      "4 4 4 4 6 10"
+        "max_layers"                                      "4 4 4 4 4 4"
       }
       "02"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "damage_reduction"                                "8 12 16 20 14 8"
+        "damage_reduction"                                "8 12 16 20 20 20"
       }
       "03"
       {
@@ -42,7 +42,7 @@
       "04"
       {
         "var_type"                                        "FIELD_INTEGER"
-        "minimum_damage"                                  "40"
+        "minimum_damage"                                  "40 40 40 40 160 320" //oaa
       }
       "05"
       {
